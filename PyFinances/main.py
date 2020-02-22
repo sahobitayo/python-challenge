@@ -9,7 +9,7 @@ import csv
 csvpath = os.path.join('budget.csv')
 total_months= 0
 difference=0
-no= 0
+no= 867884
 total=0
 dates=[]
 profit_loss= []
@@ -36,7 +36,7 @@ with open(csvpath, newline='') as csvfile:
         profit_loss.append(change)
         no = int(row[0])
 
-    average_change = sum(profit_loss)/total_months
+    average_change = sum(profit_loss)/85
     average_change= round(average_change,2)
     # Find greatest value and date
     greatest= max(profit_loss)
