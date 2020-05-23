@@ -1,9 +1,9 @@
-## Python-Challenge
+# Python-Challenge
 
 In this  project, I will  complete two python challenges, PyElections and PyFinances. Both of these challenges encompasses a real-world situation Python scripting skills can come in handy. 
 
 
-# PyElections
+## PyElections
 
 In this challenge, I was tasked with helping the city of Houston modernize its vote-counting process for the next mayoral elections. No candidate won a majority (over 50%) of the vote during the general election that took place on November 5, 2019. The 2019 Houston mayoral election was decided by a runoff on December 14, 2019 to elect the Mayor of Space City. I was assigned to write a script that will decide the two candidates with the highest number of votes and advance to the runoff election.
 
@@ -18,7 +18,7 @@ I was given a set of the last general election data called [houston_election_dat
 The final script printed both the analysis to the terminal and exported a text file with the results. 
 
 
-# PyFinances
+## PyFinances
 
 
 
@@ -33,7 +33,7 @@ My task was to create a Python script that analyzes the records to calculate eac
 5. The greatest decrease in losses (date and amount) over the entire period
 
 
-## Smple Output
+## Sample Output
 My final script should both print the analysis to the terminal and export a text file with the results:
 
 
