@@ -1,7 +1,6 @@
 ## Python-Challenge
-# Python Project for Rice University
 
-In this homework project, I will be using previous learnt concepts to complete two python challenges, PyElections and PyFinances. Both of these challenges encompasses a real-world situation Python scripting skills can come in handy. 
+In this  project, I will  complete two python challenges, PyElections and PyFinances. Both of these challenges encompasses a real-world situation Python scripting skills can come in handy. 
 
 
 # PyElections
@@ -38,7 +37,7 @@ My task was to create a Python script that analyzes the records to calculate eac
 My final script should both print the analysis to the terminal and export a text file with the results:
 
 
-1. PyBank
+1. **PyBank**
 ```
 $ python main.py
         Date  Profit/Losses
@@ -72,7 +71,7 @@ Greatest Increase in Profits: Feb-2012, $1,926,159.00
 Greatest Decrease in Profits: Sep-2013, $-2,196,167.00
 ```
 
-2. 
+2. **PyElection**
 ```
 $ python main.py
          Voter ID County Candidate
@@ -114,7 +113,7 @@ Winner: Khan
 
 
 ## TOOLS USED
-- **Python
-- **Pandas
-- **Jupyter Notebook
+- **Python**
+- **Pandas**
+- **Jupyter Notebook**
 
